@@ -1,5 +1,7 @@
 package com.frankmoley.lil.learningspring.data;
 
-public interface RoomRepository extends CrudRepository<Room, Long>{
+import org.springframework.data.repository.CrudRepository;
+
+public interface RoomRepository extends CrudRepository<Room, Long> {
     
 }

@@ -1,7 +1,13 @@
 package com.frankmoley.lil.learningspring.data;
 
-import org.springframework.boot.autoconfigure.domain.Entity;
-import org.springframework.stereotype.Indexed;
+
+import org.springframework.data.annotation.Id;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
 
 @Entity
 @Table(name="ROOM")

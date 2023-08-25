@@ -1,5 +1,6 @@
 package com.frankmoley.lil.learningspring.util;
 
+import com.frankmoley.lil.learningspring.data.RoomRepository;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;
