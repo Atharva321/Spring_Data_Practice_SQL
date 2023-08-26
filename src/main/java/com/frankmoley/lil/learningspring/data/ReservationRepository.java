@@ -1,7 +1,9 @@
 package com.frankmoley.lil.learningspring.data;
 
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface ReservationRepository extends CrudRepository<Reservation, Long> {
+import java.util.Date;
 
+public interface ReservationRepository extends JpaRepository<Reservation, Long> {
+    Iterable<Reservation> findReservationsByDate(Date date);
 }

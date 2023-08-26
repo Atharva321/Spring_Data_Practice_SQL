@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8579f15d-9d04-4cbe-a2d5-4c9ff09e65f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/frankmoley/lil/learningspring/LearningSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/frankmoley/lil/learningspring/data/Room.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/frankmoley/lil/learningspring/data/RoomRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/frankmoley/lil/learningspring/util/AppStartupEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/LearningSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/LearningSpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/Guest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/GuestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/GuestRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/ReservationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/ReservationRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/RoomRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/data/RoomRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/util/AppStartupEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frankmoley/lil/learningspring/util/AppStartupEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,27 +37,27 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2UTGO7nBQ667RnNmtbkKB983dGc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Coding/Development/Linkedin_Learning/Spring_Data_Practice_SQL",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Coding/Development/Linkedin_Learning/Spring_Data_Practice_SQL&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LearningSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.frankmoley.lil.learningspring.LearningSpringApplication" />
